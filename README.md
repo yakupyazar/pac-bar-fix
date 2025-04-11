@@ -5,6 +5,8 @@
 
 Important note:
 The latest supported operating system is macOS version 10.15.6 (Catalina), which is the version where the Pac-Bar application has a bugfix for MacOs Sonoma (14.x.x)
+
+Original repository: https://github.com/henryefranks/pac-bar/
 ## Gameplay
 **Note: A Touch Bar is required to play**
 
